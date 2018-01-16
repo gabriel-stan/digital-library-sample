@@ -19,10 +19,10 @@ Solutions for each exercise are provided in the [docs](docs) folder. For each so
 
 For each of the following exercises, complete the above-mentioned tasks in the Description section.
 
-- [ ] Exercise 1
-- [ ] Exercise 2
-- [ ] Exercise 3
-- [ ] Exercise 4
+- [x] Exercise 1
+- [x] Exercise 2
+- [x] Exercise 3
+- [x] Exercise 4
 
 ---
 
