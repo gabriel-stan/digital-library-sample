@@ -14,7 +14,7 @@ To better understand the structure, I will design a relational database, which c
 
 The image below is a very basic example of an ER diagram for this example. All entities will have their corresponding attributes, but they are not shown in the diagram for simplicity.
 
-![Here](https://drive.google.com/open?id=18SfvF9a84Yv-0rVoRh1AGmd1pI5ltLlj)
+![Here](../img/ER_diagram.jpg)
 
 ### Task list
 
