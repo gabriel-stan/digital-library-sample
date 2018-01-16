@@ -9,7 +9,6 @@ Solutions for each exercise are provided in the [docs](docs) folder. For each so
 - Description
 - Analysis
 - Task list
-- Usage
 - Possible improvements
 
 
